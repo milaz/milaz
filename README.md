@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Check out [frameorc](https://github.com/frameorc), a collection of libraries for building web apps
+that I've designed over the past eight years. The release is a work in progress, with more parts
+being added over time.
+
 <!--
 **milaz/milaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
